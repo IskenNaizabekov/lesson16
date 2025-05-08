@@ -82,4 +82,3 @@ resetBtn.addEventListener('click', () => {
     seconds = 0;
     updateDisplay();
 });
-
